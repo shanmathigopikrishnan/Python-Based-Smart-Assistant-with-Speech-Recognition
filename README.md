@@ -1,4 +1,4 @@
-# 🎹 Nova – Python Voice Assistant
+# 🎙️ Nova – Python Voice Assistant
 
 **Nova** is a smart voice assistant built in Python that can perform basic tasks using speech recognition and text-to-speech technology. It can tell time/date, open websites, fetch Wikipedia summaries, tell jokes, set reminders, send emails, and more.
 
@@ -7,7 +7,6 @@
 ## 🎬 Demo Video
 
 > 🎩 [Watch Demo on YouTube](https://youtube.com/your-demo-link)
-> *(Replace the link with your actual video URL)*
 
 ---
 
